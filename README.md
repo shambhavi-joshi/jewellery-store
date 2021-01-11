@@ -1,6 +1,8 @@
 # Jewellery Store
 Estimation app for jewellery store
 
+This app consists of .NET Core API's and React.JS UI.
+
 System consists of 2 in-memory users:
   Luke - lukes (Normal)
   Caleb - calebs (Privileged)
